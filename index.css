@@ -2,8 +2,8 @@
 #parent {
     background-image: url("./images/bgggg.jpeg");
     background-size: cover;
-    height: 760px;
-    width: 100%;
+    height: 1000px;
+    width:2000px;
     margin-left: 0;
     margin-top: -7px;
     position: relative;
@@ -23,7 +23,7 @@ h3 {
 
 #child{
     height: 600px;
-    width: 68%;
+    width:985px;
     background-image:url("./images/bgimg.webp");
     background-size: cover;
     margin-top: 110px;
@@ -59,7 +59,7 @@ a:hover{
     background-color: black;
     position: fixed;
     height: 55px;
-    width: 100%;
+    width: 967px;
     padding: 3px;
     position: absolute;
 
@@ -75,8 +75,8 @@ button{
 }
 #snd{
     background-image: url("./images/3rd\ bgg.jpg");
-    height: 760px;
-    width: 1520px;
+    height: 1000px;
+    width: 2000px;
     background-size: cover;
 }
 #kk{
@@ -107,10 +107,8 @@ button{
     color: blueviolet;
 }
 .footer{
-    height: 600px;
-    width: 100%;
-    /* background-image: url("./images/bkg.jpg"); */
-    /* background-size: cover; */
+    height:1000px;
+    width: 2000px;
     background-color: rgb(198, 179, 216);
 }
 .navbarbg-light{
